@@ -11,8 +11,11 @@
 body{
 	background-color:lightgrey;
 }
-figure {font-style: italic;
+<style>
+figcaption {
+ font-style: italic;
   font-size: smaller}
+</style>
 h4{font-size:14px}
 h3{font-size:22px;
 font-weight: normal}

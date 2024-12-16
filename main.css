@@ -11,6 +11,8 @@
 body{
 	background-color:lightgrey;
 }
+figure {font-style: italic;
+  font-size: smaller}
 h4{font-size:14px}
 h3{font-size:22px;
 font-weight: normal}
